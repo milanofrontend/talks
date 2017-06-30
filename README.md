@@ -11,4 +11,4 @@ Si possono anche proporre e votare i talk per i prossimi incontri.
 Nella descrizione del talk clicca su "add my reaction" e scegli :+1:
 
 ## Posso chiedere se c'é qualcuno che vuole fare un talk su un argomento che mi sta a cuore?
-[Apri una issue](https://github.com/milanofrontend/talks/issues/new), siamo una community. QUalche brava persona potrebbe accettare la tua richiesta
+[Apri una issue](https://github.com/milanofrontend/talks/issues/new), siamo una community. Qualche brava persona potrebbe accettare la tua richiesta.
