@@ -7,6 +7,10 @@ Si possono anche proporre e votare i talk per i prossimi incontri.
 ## Come propongo un talk?
 [Apri una issue](https://github.com/milanofrontend/talks/issues/new) in questo repository che abbia tutte le informazioni sul tuo talk (o almeno: Titolo, piccolo abstract, una stima di durata, lingua).
 
+
+## Come richiedo un talk?
+[Apri una issue](https://github.com/milanofrontend/talks/issues/new) in questo repository che abbia le informazioni sul talk che ti piacerebbe ascoltare e taggala con la label `help wanted`.
+
 ## Come voto un talk?
 Nella descrizione del talk clicca su "add my reaction" e scegli :+1:
 
